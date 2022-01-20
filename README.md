@@ -1,5 +1,5 @@
 # JavaScriptmas-challenge
-JavaScriptmas-challenge
+My submissions for the JavaScriptmas Challenges by @scrimba
 
 # Projects
 
