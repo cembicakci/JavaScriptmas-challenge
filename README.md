@@ -8,7 +8,7 @@ My submissions for the JavaScriptmas Challenges by @scrimba
 Live: https://cembicakci.github.io/JavaScriptmas-challenge/1-%20Christmas-Contdown/ <br>
 Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/1-%20Christmas-Contdown
 
-...
+---
 
 ## 2-Toggle-Christmas-Theme
 
