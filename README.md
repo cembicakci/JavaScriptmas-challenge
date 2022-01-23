@@ -23,5 +23,5 @@ Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/2-Toggle-C
 ![Hnet com-image](https://user-images.githubusercontent.com/73403359/150696329-8059b25f-2789-4fa9-8f08-889ca4df4435.gif)
 
 
-Live: https://cembicakci.github.io/JavaScriptmas-challenge/3-Dont-Scare-Your-Relatives/
+Live: https://cembicakci.github.io/JavaScriptmas-challenge/3-Dont-Scare-Your-Relatives/ <br>
 Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/3-Dont-Scare-Your-Relatives
