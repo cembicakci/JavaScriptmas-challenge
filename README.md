@@ -4,7 +4,7 @@ My submissions for the JavaScriptmas Challenges by @scrimba
 # Projects
 
 ## 1-Christmas-Contdown
-<img width="833" alt="ss" src="https://user-images.githubusercontent.com/73403359/150405553-c282d144-2a73-4495-b64b-8e56da98e6ab.png">
+<img width="900" height="400" alt="ss" src="https://user-images.githubusercontent.com/73403359/150405553-c282d144-2a73-4495-b64b-8e56da98e6ab.png">
 Live: https://cembicakci.github.io/JavaScriptmas-challenge/1-%20Christmas-Contdown/ <br>
 Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/1-%20Christmas-Contdown
 
@@ -41,3 +41,10 @@ Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/4-Shopping
 Live: https://cembicakci.github.io/JavaScriptmas-challenge/5-Christmas-Card-Writer/ <br>
 Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/5-Christmas-Card-Writer
 
+
+## 6-Text-Christmassifier
+
+<img width="880" alt="ss" src="https://user-images.githubusercontent.com/73403359/151367691-3ed95221-9ac5-47cc-a01b-58a924e46a49.png">
+
+Live: https://cembicakci.github.io/JavaScriptmas-challenge/6-Text-Christmassifier/ <br>
+Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/6-Text-Christmassifier
