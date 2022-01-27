@@ -6,9 +6,14 @@ My submissions for the JavaScriptmas Challenges by @scrimba
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | ---------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
 | 01  | [Christmas-Contdown](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/1-%20Christmas-Contdown)               | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/1-%20Christmas-Contdown/)               |
-| 01  | [Christmas-Contdown](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/1-%20Christmas-Contdown)               | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/1-%20Christmas-Contdown/)               |
-| 01  | [Christmas-Contdown](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/1-%20Christmas-Contdown)               | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/1-%20Christmas-Contdown/)               |
-| 01  | [Christmas-Contdown](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/1-%20Christmas-Contdown)               | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/1-%20Christmas-Contdown/)               |
+| 02  | [Toggle-Christmas-Theme]( https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/2-Toggle-Christmas-Theme)         | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/2-Toggle-Christmas-Theme/)              |
+| 03  | [Dont-Scare-Your-Relatives](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/3-Dont-Scare-Your-Relatives)    | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/3-Dont-Scare-Your-Relatives/)           |
+| 04  | [Shopping-Checklist](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/4-Shopping-Checklist)                  | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/4-Shopping-Checklist/)                  |
+| 05  | [Christmas-Card-Writer](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/5-Christmas-Card-Writer)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/5-Christmas-Card-Writer/)               |
+| 06  | [Text-Christmassifier](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/6-Text-Christmassifier)              | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/6-Text-Christmassifier/)                |
+| 07  | [Play-A-Christmas-Song](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/7-Play-A-Christmas-Song)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/7-Play-A-Christmas-Song)                |
+| 08  | [Comingg.]()            | [Live Demo]()                |
+
 
 
 
