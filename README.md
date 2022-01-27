@@ -12,7 +12,7 @@ My submissions for the JavaScriptmas Challenges by @scrimba
 | 05  | [Christmas-Card-Writer](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/5-Christmas-Card-Writer)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/5-Christmas-Card-Writer/)               |
 | 06  | [Text-Christmassifier](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/6-Text-Christmassifier)              | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/6-Text-Christmassifier/)                |
 | 07  | [Play-A-Christmas-Song](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/7-Play-A-Christmas-Song)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/7-Play-A-Christmas-Song)                |
-| 08  | [Comingg.]()            | [Live Demo]()                |
+| --  | [--]()            | [Live Demo]()                |
 
 
 
