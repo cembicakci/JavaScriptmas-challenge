@@ -12,6 +12,9 @@ My submissions for the JavaScriptmas Challenges by @scrimba
 | 05  | [Christmas-Card-Writer](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/5-Christmas-Card-Writer)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/5-Christmas-Card-Writer/)               |
 | 06  | [Text-Christmassifier](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/6-Text-Christmassifier)              | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/6-Text-Christmassifier/)                |
 | 07  | [Play-A-Christmas-Song](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/7-Play-A-Christmas-Song)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/7-Play-A-Christmas-Song)                |
+| 08  | [Bell-Animator](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/8-Bell-Animator)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/8-Bell-Animator/)                |
+| 09  | [Turn-On-The-Decorations](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/9-Turn-On-The-Decorations)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/9-Turn-On-The-Decorations )                |
+| --  | [--]()            | [Live Demo]()                |
 | --  | [--]()            | [Live Demo]()                |
 
 
@@ -89,3 +92,13 @@ Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/7-Play-A-C
 
 Live: https://cembicakci.github.io/JavaScriptmas-challenge/8-Bell-Animator/ <br>
 Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/8-Bell-Animator
+
+---
+
+
+## 9-Turn-On-The-Decorations
+
+<img width="900" alt="ss" src="https://user-images.githubusercontent.com/73403359/151711668-49e4a918-b4e8-4a11-a8a4-561581525744.png">
+
+Live: https://cembicakci.github.io/JavaScriptmas-challenge/9-Turn-On-The-Decorations <br>
+Repo: https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/9-Turn-On-The-Decorations
