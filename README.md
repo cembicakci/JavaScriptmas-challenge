@@ -17,6 +17,8 @@ My submissions for the JavaScriptmas Challenges by @scrimba
 | 10  | [Festivity-Loader](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Festivity-Loader)                        | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Festivity-Loader )                      |
 | 11  | [Christmas-Carousel](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Christmas-Carousel)                    | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Christmas-Carousel/)                    |
 | 12  | [Christmas-Guest-List](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Christmas-Guest-List)                | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Christmas-Guest-List/)                  |
+| 13  | [Christmas-Dinner-Calculator](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Christmas-Dinner-Calculator)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Christmas-Dinner-Calculator )                |
+| --  | [--]()            | [Live Demo]()                |
 | --  | [--]()            | [Live Demo]()                |
 
 
