@@ -22,6 +22,8 @@ My submissions for the JavaScriptmas Challenges by @scrimba
 | 15  | [Festive-Translator](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Festive-Translator)                    | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Festive-Translator/ )                   |
 | 16  | [Christmas-Movie-Selector](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Christmas-Movie-Selector)        | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Christmas-Movie-Selector )              |
 | 17  | [Naughty-List-Nice-List](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Naughty-List-Nice-List)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Naughty-List-Nice-List/)                |
+| 18  | [Custom-Shopping-Checkboxes](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Custom-Shopping-Checkboxes)    | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Custom-Shopping-Checkboxes/ )           |
+| 19  | [Snowman-Customiser](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Snowman-Customiser-)                   | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Snowman-Customiser-)                    |
 | --  | [--]()            | [Live Demo]()                |
 
 
