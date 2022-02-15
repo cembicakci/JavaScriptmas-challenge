@@ -24,7 +24,10 @@ My submissions for the JavaScriptmas Challenges by @scrimba
 | 17  | [Naughty-List-Nice-List](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Naughty-List-Nice-List)            | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Naughty-List-Nice-List/)                |
 | 18  | [Custom-Shopping-Checkboxes](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Custom-Shopping-Checkboxes)    | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Custom-Shopping-Checkboxes/ )           |
 | 19  | [Snowman-Customiser](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Snowman-Customiser-)                   | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Snowman-Customiser-)                    |
-| --  | [--]()            | [Live Demo]()                |
+| 20  | [Reindeer-Speedometer](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Reindeer-Speedometer)                | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Reindeer-Speedometer/)                  |
+| 21  | [Christmas-Stress-Buster](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Christmas-Stress-Buster )         | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Christmas-Stress-Buster)                |
+| 22  | [Customisable-Santa-Sign](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Customisable-Santa-Sign)          | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Customisable-Santa-Sign)                |
+| 23  | [Sleigh-Launcher](https://github.com/cembicakci/JavaScriptmas-challenge/tree/main/Sleigh-Launcher)                          | [Live Demo](https://cembicakci.github.io/JavaScriptmas-challenge/Sleigh-Launcher/ )                      |
 
 
 
